@@ -3,7 +3,7 @@
 ## Stock Search Web Application
 
 **Hosted on:** Google Cloud Platform (GCP)
-**Deployment Link:** [Stock Search Web Application](https://shubhie22.wm.r.appspot.com/)
+**Deployment Link:** [Stock Search Web Application](https://bafna-stockmean.wl.r.appspot.com/)
 
 ### Demo Video:
 
